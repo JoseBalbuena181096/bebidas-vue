@@ -48,6 +48,11 @@ Crear un archivo `.env` en la raíz del proyecto con las variables necesarias.
 npm run dev
 ```
 
+## 🌐 Despliegue
+
+La aplicación está desplegada en Vercel y puede ser accedida en:
+[https://bebidas-vue-ten.vercel.app/ia](https://bebidas-vue-ten.vercel.app/ia)
+
 ## 🏗️ Estructura del Proyecto
 
 ```
