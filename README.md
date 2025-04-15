@@ -31,7 +31,7 @@ Una aplicación web moderna desarrollada con Vue.js 3 para buscar y explorar dif
 
 1. Clonar el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/JoseBalbuena181096/bebidas-vue
 cd bebidas-vue
 ```
 
